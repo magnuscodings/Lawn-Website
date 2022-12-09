@@ -1,0 +1,28 @@
+<!-- Section 4 -->    
+      <!-- <h1 class="text-center p1 h1">Employee Benefits</h1>
+    <div class="row-benefits">
+      <hr>
+      <div class="colm-2">
+        <img src="images/benefit-1.jpg" class="img-ben" style="width: 50%; margin-top: 8%;" alt="">
+      </div>
+      <div class="colm-2">
+        <h1 class="h2">Medical Insurance</h1>
+        <ul class="ul-benefits">
+          <li>2 Beneficial Family members</li>
+          <li>Covered Hospital Bills up to $50,000.</li>
+        </ul>
+      </div>
+    </div>    
+    <div class="row-benefits">
+      <div class="colm-2">
+        <img src="images/benefit-2.jpg" class="img-ben" style="width: 50%; margin-top: 8%;" alt="">
+      </div>
+      <div class="colm-2">
+        <h1 class="h2">Retirement</h1>
+        <ul class="ul-benefits">
+          <li>Monthly pay up to $10,000.</li>
+          <li>Retirement pay up to $20,000.</li>
+        </ul>
+      </div><hr>
+    </div>
+   </section> -->
